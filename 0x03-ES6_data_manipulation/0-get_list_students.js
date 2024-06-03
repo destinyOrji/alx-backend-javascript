@@ -1,3 +1,7 @@
+/**
+ * Creates a new function getListStudents.
+ * @returns {Object[]} An array of student objects with id, firstName, and location properties.
+ */
 function getListStudents() {
   return [
     { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
